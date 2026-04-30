@@ -1,4 +1,3 @@
-# crypto-systematic-portfolio
 # BTC/USD Systematic Trading Portfolio
 
 Quantitative post-mortem of a self-built systematic trading strategy

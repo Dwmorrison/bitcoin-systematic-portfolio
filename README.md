@@ -1,8 +1,12 @@
-# BTC/USD Systematic Trading Portfolio
+# Bitcoin Systematic Trading Portfolio
 
-Quantitative post-mortem of a self-built systematic trading strategy
-run live on Kraken BTC/USD from December 2, 2024 to January 21, 2025.
-336,644 fills. $16.6M total notional. 99.99% passive maker.
+I built and ran a passive accumulator strategy on BTC/USD on Kraken
+from December 2024 to January 2025 with my own capital. 336,644 fills.
+$16.6M total notional. 99.99% passive maker. The strategy lost money.
+
+This repository is the quantitative post-mortem: what the data showed,
+why it failed, what the fix framework looks like, and what I am building
+next. The practitioner portfolio is the place to start.
 
 ## Documents
 
@@ -28,8 +32,8 @@ run live on Kraken BTC/USD from December 2, 2024 to January 21, 2025.
 
 ## About
 
-Will Morrison. Five years M&A research at a boutique advisory firm.
-Prior careers in the US Army National Guard and construction
-project management. Currently building toward systematic Bitcoin trading.
+David Morrison. Five years M&A research at a boutique advisory firm.
+Prior careers in the US Army National Guard and construction project
+management. Currently building toward systematic Bitcoin trading.
 
-[LinkedIn](https://www.linkedin.com/in/david-william-will-morrison-b79727220/) | [Email](wktc.com@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/david-william-will-morrison-b79727220/) | wktc.com@gmail.com

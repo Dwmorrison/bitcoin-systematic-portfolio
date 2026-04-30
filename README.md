@@ -30,6 +30,6 @@ run live on Kraken BTC/USD from December 2, 2024 to January 21, 2025.
 
 Will Morrison. Five years M&A research at a boutique advisory firm.
 Prior careers in the US Army National Guard and construction
-project management. Currently building toward systematic crypto trading.
+project management. Currently building toward systematic Bitcoin trading.
 
 [LinkedIn](https://www.linkedin.com/in/david-william-will-morrison-b79727220/) | [Email](wktc.com@gmail.com)

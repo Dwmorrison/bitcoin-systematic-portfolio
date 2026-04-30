@@ -33,4 +33,4 @@ Will Morrison. Five years M&A research at a boutique advisory firm.
 Prior careers in the US Army National Guard and construction
 project management. Currently building toward systematic crypto trading.
 
-LinkedIn URL(https://www.linkedin.com/in/david-william-will-morrison-b79727220/) | emial: wktc.com@gmail.com
+[LinkedIn](https://www.linkedin.com/in/david-william-will-morrison-b79727220/) | emial: wktc.com@gmail.com
